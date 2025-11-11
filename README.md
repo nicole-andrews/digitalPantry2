@@ -11,7 +11,6 @@ I’m really excited to keep growing this project into something genuinely usefu
 Project Desciption:
 Digital Pantry is a full-stack application designed to help users track the food items they keep at home, manage meal ingredients, and better organize their day-to-day cooking. 
 
-What the App Does
 Digital Pantry allows users to:
 - Store foods and their nutritional information (calories, protein, carbs, fat, etc.)
 - Add and remove items from their personal pantry
