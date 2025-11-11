@@ -1,0 +1,16 @@
+# easier to read than .properties file: spring.application.name=pantry
+spring:
+  application:
+    name: pantry
+  datasource:
+    url: jdbc:postgresql://localhost:54321/pantry_api
+    username: ${USER}
+    password:
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+  flyway:
+    enabled: true
+
