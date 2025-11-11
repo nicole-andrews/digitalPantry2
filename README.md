@@ -1,5 +1,5 @@
 Project Background:
-This project is an expansion of my very first personal project. The original version was a simple React website I built using what I learned in a UI course over the summer. 
+This project is an expansion of my very first personal project. The original version was a simple React website I built using what I learned in a UI course. 
 Since then, after completing an internship in application development using Angular and taking Big Data Systems (CS 544) this semester, I wanted to push myself to build something more full-stack and robust.
 
 Because Java is my favorite language, I decided to pivot the project to a full backend built with Java Spring Boot. 
